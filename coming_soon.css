@@ -18,7 +18,7 @@ color: white;
 
 
 .cs-illustration{
-    max-width: 460px;
+    max-width: 420px;
     margin: 0;
 }
 
@@ -29,7 +29,7 @@ color: white;
         max-width: 350px;
     }
 
-    .cs-logo{
+    .cs-logo img{
         height: auto;
         padding: 16px 0 0 16px;
     }
